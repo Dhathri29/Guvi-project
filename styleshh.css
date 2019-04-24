@@ -1,0 +1,28 @@
+*{
+      margin: 0;
+	  padding: 0;
+}
+body{
+	 background-image: url(reg.jpg);
+	 background-size: cover;
+}
+
+
+h2{
+	text-align: center;
+	color: pink;
+	background: rgba(0,0,0,0.5);
+	padding: 15px;
+}	
+
+.registration{
+	margin: auto;
+	width: 40%;
+	
+	text-align: center;
+	color: white;
+	background: rgba(0,0,0,0,5);
+	border: 2px solid white;
+	
+	
+}	  
